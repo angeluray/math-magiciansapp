@@ -18,7 +18,7 @@
   padding: 10px;
   background-color: rgb(167, 167, 167);
   color: #fff;
-  border-radius: 15px 15px 0px 0px;
+  border-radius: 15px 15px 0 0;
   font-size: 25px;
   text-align: right;
 }
