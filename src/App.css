@@ -50,10 +50,6 @@ button:nth-child(4n) {
   background-color: rgb(255, 161, 73);
 }
 
-button:nth-child(4n):hover {
-  background-color: rgb(255, 134, 22);
-}
-
 button:nth-child(17) {
   border-bottom-left-radius: 15px;
   grid-column: 1/3;
@@ -62,6 +58,10 @@ button:nth-child(17) {
 button:last-child {
   border-bottom-right-radius: 15px;
   background-color: rgb(255, 161, 73);
+}
+
+button:nth-child(4n):hover {
+  background-color: rgb(255, 134, 22);
 }
 
 button:last-child:hover {
