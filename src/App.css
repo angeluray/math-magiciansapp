@@ -15,12 +15,17 @@
 }
 
 .resultScreen {
-  padding: 10px;
+  height: 52px;
+  padding-top: 2px;
+  padding-right: 10px;
   background-color: rgb(167, 167, 167);
   color: #fff;
   border-radius: 15px 15px 0 0;
   font-size: 25px;
   text-align: right;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
 }
 
 .calculatorButtons {
@@ -37,8 +42,16 @@ button {
   font-weight: 400;
 }
 
+button:hover {
+  background-color: rgba(79, 255, 35, 0.352);
+}
+
 button:nth-child(4n) {
   background-color: rgb(255, 161, 73);
+}
+
+button:nth-child(4n):hover {
+  background-color: rgb(255, 134, 22);
 }
 
 button:nth-child(17) {
@@ -49,4 +62,8 @@ button:nth-child(17) {
 button:last-child {
   border-bottom-right-radius: 15px;
   background-color: rgb(255, 161, 73);
+}
+
+button:last-child:hover {
+  background-color: rgb(255, 134, 22);
 }
