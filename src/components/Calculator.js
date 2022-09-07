@@ -1,4 +1,8 @@
 import React from 'react';
+import calculate from '../logic/calculate'; // eslint-disable-line
+
+// I have to remove the calculate disable line when I use the calculate function.
+
 // eslint-disable-next-line react/prefer-stateless-function
 class MyCalculator extends React.Component {
   render() {
