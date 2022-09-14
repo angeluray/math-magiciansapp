@@ -1,7 +1,7 @@
 #root {
-  background: rgb(0,0,0);
-background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
-height: 100vh;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+  height: 100vh;
 }
 
 .navTitle {
@@ -34,7 +34,7 @@ nav ul li {
 }
 
 nav ul li:hover {
-transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 .li1 {
@@ -46,9 +46,9 @@ a {
 }
 
 .homeContainer {
- display: flex;
- justify-content: center;
- height: 60%;
+  display: flex;
+  justify-content: center;
+  height: 60%;
 }
 
 .homeSection {
@@ -76,11 +76,9 @@ p {
 
 .App {
   display: flex;
-  align-items: center;
   max-width: 79%;
   width: 100%;
   height: 78vh;
-  display: flex;
   justify-content: space-between;
   align-items: flex-start;
   margin: 12px auto;
@@ -164,4 +162,3 @@ button:last-child:hover {
   font-size: 30px;
   font-family: 'Roboto', sans-serif;
 }
-
