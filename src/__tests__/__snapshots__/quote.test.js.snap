@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check tha Quote function renders content Check if render the Quote 1`] = `
+<p
+  className="quote"
+>
+  Pure mathematics is, in its way, the poetry of logical ideas.
+  <br />
+  — Albert Einstein, German theoretical physicist
+</p>
+`;
