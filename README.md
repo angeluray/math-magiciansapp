@@ -51,8 +51,7 @@ To get a local copy up and running follow these simple steps.
 - **Linters Check**
 
 ## 🌎 Live Demo:
-- [Math Magicians App]()
-> The link is currently not available, right after got the project approved it will be here. 
+- [Math Magicians App](https://fabulous-gecko-9d49b1.netlify.app)
 
 ## Authors 
 ### 👤 Angel Uray
