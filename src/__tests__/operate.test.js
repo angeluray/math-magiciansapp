@@ -1,4 +1,6 @@
+/* eslint-disable */
 import operate from '../Logic/operate';
+/* eslint-enable */
 
 describe('Check if operate function gives the results', () => {
   test('Test multiply 20 * 30 to get 600', () => {
