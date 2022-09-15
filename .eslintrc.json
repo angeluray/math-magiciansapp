@@ -25,6 +25,7 @@
   "ignorePatterns": [
     "dist/",
     "build/",
-    "App.js"
+    "App.js",
+    "Gradient.js"
   ]
 }
